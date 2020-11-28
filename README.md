@@ -1,7 +1,7 @@
 # morvii
 React Native Social Media Application
 
-- [View Features](https://morwii.github.io)
+[View Features](https://morwii.github.io)
 
 ### Using the app
    #### For Users
