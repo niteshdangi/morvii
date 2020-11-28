@@ -17,11 +17,11 @@ Want to contribute? Great!
 
 Just Contact Me
 
-[![alt text][http://i.imgur.com/tXSoThF.png]][https://twitter.com/nitesh_dangi_]
+[![alt text][1.1]][https://twitter.com/nitesh_dangi_]
 [![alt text][http://i.imgur.com/P3YfQoD.png]][https://facebook.com/jaat.niteshdangi]
 [![alt text]https://i.imgur.com/M6yBwxS.png]][https://instagram.com/nitesh_dangi_]
 [![alt text][http://i.imgur.com/0o48UoR.png]][https://github.com/niteshdangi]
-
+[1.1]: http://i.imgur.com/tXSoThF.png
 
 ### Todos
 
