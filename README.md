@@ -17,25 +17,11 @@ Want to contribute? Great!
 
 Just Contact Me
 
-<a href="#"><img src="https://i.imgur.com/b4Nmq13.png" width="48"></a>
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
-[1.1]: https://i.imgur.com/b4Nmq13.png (Twitter)
-[2.1]: https://i.imgur.com/QQ89Rt3.jpeg (Facebook)
-[3.1]: https://i.imgur.com/tXSoThF.png (Instagram)
-[4.1]: https://i.imgur.com/J6LeoUb.png (GitHub)
-[5.1]: https://i.imgur.com/OQUXwNp.jpeg (Linkedin)
-
-
-[1]: http://www.twitter.com/nitesh_dangi_
-[2]: http://www.facebook.com/jaat.niteshdangi
-[3]: https://instagram.com/nitesh_dangi_
-[4]: http://www.github.com/niteshdangi
-[5]: http://www.linkedin.com/in/niteshdangi
+<a href="http://www.twitter.com/nitesh_dangi_" title="Twitter"><img src="https://i.imgur.com/b4Nmq13.png" width="30"></a>
+<a href="http://www.facebook.com/jaat.niteshdangi" title="Facebook"><img src="https://i.imgur.com/QQ89Rt3.jpeg" width="30"></a>
+<a href="http://www.instagram.com/nitesh_dangi_" title="Instagram"><img src="https://i.imgur.com/tXSoThF.png" width="30"></a>
+<a href="http://www.github.com/niteshdangi" title="GitHub"><img src="https://i.imgur.com/J6LeoUb.png" width="30"></a>
+<a href="http://www.linkedin.com/niteshdangi" title="LinkedIN"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="30"></a>
 
 ### Todos
 
