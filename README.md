@@ -17,17 +17,17 @@ Want to contribute? Great!
 
 Just Contact Me
 
-[![image][1.1]][1]
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
-[1.1]: https://i.imgur.com/b4Nmq13.png | width=100 (Twitter)
-[2.1]: https://i.imgur.com/QQ89Rt3.jpeg | width=100 (Facebook)
-[3.1]: https://i.imgur.com/tXSoThF.png | width=100 (Instagram)
-[4.1]: https://i.imgur.com/J6LeoUb.png | width=100 (GitHub)
-[5.1]: https://i.imgur.com/OQUXwNp.jpeg | width=100 (Linkedin)
+[1.1]: https://i.imgur.com/b4Nmq13.png (Twitter)
+[2.1]: https://i.imgur.com/QQ89Rt3.jpeg (Facebook)
+[3.1]: https://i.imgur.com/tXSoThF.png (Instagram)
+[4.1]: https://i.imgur.com/J6LeoUb.png (GitHub)
+[5.1]: https://i.imgur.com/OQUXwNp.jpeg (Linkedin)
 
 
 [1]: http://www.twitter.com/nitesh_dangi_
