@@ -1,4 +1,4 @@
-# morvii
+# Morvii
 React Native Social Media Application
 
 [View Features](https://morwii.github.io)
