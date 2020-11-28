@@ -3,11 +3,11 @@ React Native Social Media Application
 [View Features](https://morwii.github.io)
 
 ### Using the app
-  #### For Users
-    - For users the app is unavailable
+   #### For Users
+    For users the app is unavailable
 
   #### For Developers
-    - It's a React Native Application, I hope you know the process :)
+    It's a React Native Application, I hope you know the process :)
 
 
 ### Development
@@ -25,4 +25,4 @@ Just Contact Me
 License
 ----
 
-GNU GPLv3
+[GPL-3.0 License](https://github.com/niteshdangi/morvii/blob/master/LICENSE)
