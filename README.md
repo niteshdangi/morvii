@@ -1,6 +1,6 @@
 # Morvii
 React Native Social Media Application
-
+<img src="https://github.com/favicon.ico" width="48">
 [View Features](https://morwii.github.io)
 
 ### Using the app
