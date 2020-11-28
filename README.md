@@ -18,10 +18,10 @@ Want to contribute? Great!
 Just Contact Me
 
 <a href="http://www.twitter.com/nitesh_dangi_" title="Twitter"><img src="https://i.imgur.com/b4Nmq13.png" width="30"></a>
-<a href="http://www.facebook.com/jaat.niteshdangi" title="Facebook"><img src="https://i.imgur.com/QQ89Rt3.jpeg" width="30"></a>
-<a href="http://www.instagram.com/nitesh_dangi_" title="Instagram"><img src="https://i.imgur.com/tXSoThF.png" width="30"></a>
+<a href="http://www.facebook.com/jaat.niteshdangi" title="Facebook"><img src="https://i.imgur.com/QQ89Rt3.jpeg" width="30" style="border-radius:50%"></a>
+<a href="http://www.instagram.com/nitesh_dangi_" title="Instagram"><img src="https://i.imgur.com/M6yBwxS.png" width="30"></a>
 <a href="http://www.github.com/niteshdangi" title="GitHub"><img src="https://i.imgur.com/J6LeoUb.png" width="30"></a>
-<a href="http://www.linkedin.com/niteshdangi" title="LinkedIN"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="30"></a>
+<a href="http://www.linkedin.com/niteshdangi" title="LinkedIN"><img src="https://i.imgur.com/OQUXwNp.jpeg" width="30" style="border-radius:50%"></a>
 
 ### Todos
 
