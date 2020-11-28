@@ -1,6 +1,7 @@
 # morvii
 React Native Social Media Application
-[View Features](https://morwii.github.io)
+
+- [View Features](https://morwii.github.io)
 
 ### Using the app
    #### For Users
@@ -13,6 +14,7 @@ React Native Social Media Application
 ### Development
 
 Want to contribute? Great!
+
 Just Contact Me
 
 
