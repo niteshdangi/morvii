@@ -1,0 +1,31 @@
+from django.urls import path, include
+from . import views
+
+urlpatterns = [
+    path('login/', views.Login.as_view()),
+    path('login/otp/request/', views.OtpLogin.as_view()),
+    path('login/otp/', views.LoginTokenFromOtp.as_view()),
+    path('reset/password/otp/', views.PasswordResetToken.as_view()),
+    path('reset/password/', views.PasswordReset.as_view()),
+    path('server/<token>/connect/', views.ConnectServer.as_view()),
+    path('server/<token>/disconnect/', views.DisconnectServer.as_view()),
+    path('server/token/', views.ServerToken.as_view()),
+    path('register/username/', views.CheckUsername.as_view()),
+    path('register/mobile/', views.VerifyMobile.as_view()),
+    path('register/mail/', views.VerifyMail.as_view()),
+    path('register/verify/', views.VerifyOTP.as_view()),
+    path('register/complete/', views.Register.as_view()),
+    path('profile/', views.Profile.as_view()),
+    path('security/', views.Security.as_view()),
+    path('otp/', views.Otp.as_view()),
+    path('fcm/', views.FCMToken.as_view()),
+    path('logout/', views.Logout.as_view()),
+    path('login-history/', views.GetLoginHistory.as_view()),
+    path('profile/<username>/', views.Profile.as_view()),
+    path('search/<query>/', views.Search.as_view()),
+    path('login/verify/', views.VerifyLogin.as_view()),
+    path('follow/request/', views.SendFollow.as_view()),
+    path('follow/accept/', views.AcceptFollow.as_view()),
+    path('unfollow/', views.UnFollow.as_view()),
+    path('<user>/follow/<rtype>/', views.GetFollowDetails.as_view()),
+]
