@@ -10,6 +10,7 @@ npm-debug.*
 web-build/
 web-report/
 */google-services.json
+android/app/google-services.json
 # macOS
 .DS_Store
 # @generated expo-cli sync-2ef881133233622bdc507b622808fd28cb52985b
