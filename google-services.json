@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476293573596",
+    "firebase_url": "https://morvii.firebaseio.com",
+    "project_id": "morvii",
+    "storage_bucket": "morvii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476293573596:android:524d2f97ea526695a97d19",
+        "android_client_info": {
+          "package_name": "com.morvii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476293573596-ur4l3bfpdbck1mp2o83rkkhlhd2vl8ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1gB5t7Fix3HImG8LhfcIqVf-D0gzM6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476293573596-ur4l3bfpdbck1mp2o83rkkhlhd2vl8ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
